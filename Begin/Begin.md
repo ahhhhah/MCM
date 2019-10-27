@@ -40,7 +40,7 @@ Free: https://github.com/ThinkDevelop/Free-SS-SSR （配合SSR使用）
 
 时间节点安排：
 
-![](.\picture\xixi.png)
+![](./picture/xixi.png)
 
 1. 亚太赛前：
 
