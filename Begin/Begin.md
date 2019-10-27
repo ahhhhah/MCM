@@ -1,11 +1,12 @@
-MCM常用词汇句式总结：
+
+<br>MCM常用词汇句式总结：
 
  [腾讯在线文档](https://docs.qq.com/doc/DUkFqYmZEa0VUa1pC )
 
 
 
 
-飞机场：
+<br>飞机场：
 
 Free: https://github.com/ThinkDevelop/Free-SS-SSR （配合SSR使用）
 
@@ -15,7 +16,7 @@ Free: https://github.com/ThinkDevelop/Free-SS-SSR （配合SSR使用）
 
 
 
-资料文献查找：
+<br>资料文献查找：
 
 [谷歌学术](https://scholar.google.com/ )
 
@@ -27,7 +28,7 @@ Free: https://github.com/ThinkDevelop/Free-SS-SSR （配合SSR使用）
 
 
 
-其他资源：
+<br>其他资源：
 
 [沙拉划词谷歌插件](https://saladict.crimx.com/)
 
@@ -37,7 +38,7 @@ Free: https://github.com/ThinkDevelop/Free-SS-SSR （配合SSR使用）
 
 
 
-其他注意事项：
+<br>其他注意事项：
 
 1. 不建议使用qq邮箱，建议使用gmail 或 网易邮箱
 
@@ -46,7 +47,7 @@ Free: https://github.com/ThinkDevelop/Free-SS-SSR （配合SSR使用）
    
 
 
-时间节点安排：
+<br>时间节点安排：
 
 ![](./picture/xixi.png)
 
