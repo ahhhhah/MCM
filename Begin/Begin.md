@@ -4,11 +4,14 @@ MCM常用词汇句式总结：
 
 
 
+
 飞机场：
 
 Free: https://github.com/ThinkDevelop/Free-SS-SSR （配合SSR使用）
 
 ￥8.99/季度：https://tianlinzhao.com/clientarea.php （配合clash、v2rayN使用）
+
+
 
 
 
@@ -22,11 +25,15 @@ Free: https://github.com/ThinkDevelop/Free-SS-SSR （配合SSR使用）
 
 
 
+
+
 其他资源：
 
 [沙拉划词谷歌插件](https://saladict.crimx.com/)
 
 2013-2018年美赛o奖合集：群文件、U盘
+
+
 
 
 
@@ -38,9 +45,11 @@ Free: https://github.com/ThinkDevelop/Free-SS-SSR （配合SSR使用）
 
    
 
+
 时间节点安排：
 
 ![](./picture/xixi.png)
+
 
 1. 亚太赛前：
 
@@ -50,13 +59,17 @@ Free: https://github.com/ThinkDevelop/Free-SS-SSR （配合SSR使用）
 
    代码流畅，逻辑清晰
 
+
+
 2. MCM前：
 
-	在线文档的维护基本完成，对常用句式语法、专业术语的表达熟悉。表达比较native
+	在线文档的维护基本完成，对常用句式语法、专业术语的表达熟悉,表达比较native
 	
 	常用模型收集完毕
 	
 	常用模型代码已调式完成、数据图标、公式编辑熟练使用
+	
+	
 	
 3. MCM：
 
